@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
@@ -105,7 +108,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Tgv7oit1C3RRUFiWdaZZm7pUdS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -153,7 +158,7 @@
       <workItem from="1573894389586" duration="6243000" />
       <workItem from="1573900661148" duration="832000" />
       <workItem from="1574051801571" duration="3057000" />
-      <workItem from="1574055018508" duration="620000" />
+      <workItem from="1574055018508" duration="1220000" />
     </task>
     <servers />
   </component>
